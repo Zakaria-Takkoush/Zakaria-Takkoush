@@ -2,7 +2,7 @@
 
 ## I'm a Passionate Developer, and a Civil ENgineer!!
 
-- 🌱 I’m currently learning Full-Stack Web Development at SE Factory 🤣
+- 🌱 I’m currently learning Full-Stack Web Development at SE Factory
 - 👯 I’m looking to collaborate with other developers and find an amazing job!
 - 🥅 2022 Goals: Learn more about web development and data science
 - ⚡ Hobbies: I love to watch football
@@ -18,19 +18,9 @@
 ">
   <img align="left" alt="LinkdeIN" width="22px" src="img/linkedin.png" />
 </a>
-<a target="_blank" href="https://www.facebook.com/zakaria.takkoush">
-  <img align="left" alt="Facebook" width="22px" src="img/fb.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/zakariatakkoush/">
-  <img align="left" alt="Instagram" width="22px" src="img/ig.png" />
-</a>
 <a target="_blank" href="zaktakk96@gmail.cm">
   <img align="left" alt="Gmail" width="22px" src="img/gmail.png" />
 </a>
-<a target="_blank" href="https://twitter.com/zaktakk">
-  <img align="left" alt="Gmail" width="22px" src="img/twitter.png" />
-</a>
-<br/>
 
 
 ### Languages and Tools:
