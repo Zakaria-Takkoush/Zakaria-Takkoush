@@ -22,6 +22,7 @@
   <img align="left" alt="Gmail" width="22px" src="img/gmail.png" />
 </a>
 
+<br />
 
 ### Languages and Tools:
 
